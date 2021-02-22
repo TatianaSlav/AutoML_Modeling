@@ -1,0 +1,21 @@
+#Binary Classifier with Clean/Balanced Data
+  #Train/Test Split
+  #Confusion Matrix
+  #Precision and Recall
+  #Score Threshold
+
+#Binary Classifier with Clean/Unbalanced Data
+  #Train/Test Split
+  #Confusion Matrix
+  #Precision and Recall
+  #Unbalanced Classes
+  
+#Binary Classifier with Dirty/Balanced Data
+  #Confusion Matrix
+  #Precision and Recall
+  #Dirty Data
+  
+  #3-Class Model
+  #Confusion Matrix
+  #Precision and Recall
+  #F1 Score
